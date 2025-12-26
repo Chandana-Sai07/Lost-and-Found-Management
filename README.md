@@ -39,7 +39,7 @@ LostandFound/
 
 Follow these steps to run the project locally.
 
-###  Clone the Repository
+##  Clone the Repository
 
 git clone https://github.com/Chandana-Sai07/Lost-and-Found-Management
 cd LostandFound
